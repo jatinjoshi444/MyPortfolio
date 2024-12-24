@@ -1,0 +1,74 @@
+[
+    {
+        "key":1,
+        "title":"Amilo AI",
+        "imageSrc":"../src/assets/project-img/Screenshot (5).png",
+        "description":" This is a project made with complete React js.",
+        "demo":"",
+        "source":"https://github.com/Chandan784/AmiloAi.git"
+    },
+    {
+        "key":2,
+        "title":"Weather App",
+        "imageSrc":"",
+        "description":" This is a project made with complete React js.",
+        "demo":"https://weather-app-reactjs-snowy-three.vercel.app/",
+        "source":"https://github.com/jatinjoshi444/Weather-App-Reactjs.git"
+    },
+    {
+        "key":3,
+        "title":"Shoping Cart",
+        "imageSrc":"",
+        "description":" This is a project made with complete React js.",
+        "demo":"https://shopping-cart-flame-theta.vercel.app/",
+        "source":"https://github.com/jatinjoshi444/Shopping-cart.git"
+    },
+    {
+        "key":4,
+        "title":"Calculator",
+        "imageSrc":"",
+        "description":" This is a project made with complete React js.",
+        "demo":"https://calculator-gamma-navy.vercel.app/",
+        "source":"https://github.com/jatinjoshi444/Calculator.git"
+    },
+    {
+        "key":5,
+        "title":"Expense Tracker",
+        "imageSrc":"",
+        "description":" This is a project made with HTML, CSS, Bootstrap, JavaScript",
+        "demo":"",
+        "source":"https://github.com/jatinjoshi444/Expense-Tracker.git"
+    },
+    {
+        "key":6,
+        "title":"Key Logger",
+        "imageSrc":"",
+        "description":" This is a project made with HTML, CSS, JavaScript.",
+        "demo":"",
+        "source":"https://github.com/jatinjoshi444/KeyLogger.git"
+    },
+    {
+        "key":7,
+        "title":"Planet Shop",
+        "imageSrc":"",
+        "description":" This is a project made with HTML, CSS",
+        "demo":"",
+        "source":"https://github.com/jatinjoshi444/planet-shop.git"
+    },
+    {
+        "key":8,
+        "title":"Spotify Clone",
+        "imageSrc":"",
+        "description":" This is a project made with HTML, CSS, JavaScript.",
+        "demo":"",
+        "source":"https://github.com/jatinjoshi444/Spotify-clone.git"
+    },
+    {
+        "key":9,
+        "title":"Booking App",
+        "imageSrc":"",
+        "description":" This is a project made with HTML, CSS, Bootstrap, JavaScript",
+        "demo":"",
+        "source":"https://github.com/jatinjoshi444/BookingAppCore.git"
+    }
+]
