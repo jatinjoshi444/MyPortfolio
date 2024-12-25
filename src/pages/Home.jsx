@@ -9,7 +9,7 @@ const Home = () => {
           <button>Download Resume</button>
         </div>
         <div>
-          <img src="../src/assets/My-img/MyImage.png" alt="" />
+          <img src="../../public/assets/My-img/MyImage.png" alt="" />
         </div>
       </div>
     </>

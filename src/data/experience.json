@@ -10,7 +10,7 @@
             "Gaining practical experience in building and managing full-stack web applications.",
             "Worked on various projects, enhancing my understanding of modern web development practices."
          ],
-         "imageSrc":"../src/assets/experince-img/AmiloAi.png"
+         "imageSrc":"../../public/assets/experince-img/AmiloAi.png"
     },
     {
         "id":2,
@@ -23,6 +23,6 @@
             "gaining hands-on experience in building responsive web applications.",
             "Developed skills in HTML, CSS, JavaScript, and frameworks during internship, contributing to live projects and enhancing user interfaces."
          ],
-         "imageSrc":"../src/assets/experince-img/auroskkil.webp"
+         "imageSrc":"../../public/assets/experince-img/auroskkil.webp"
     }
 ]
