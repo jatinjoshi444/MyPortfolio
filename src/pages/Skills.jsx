@@ -1,6 +1,5 @@
 import React from 'react'
 import skillsData from '../data/skills.json'
-import html from "../../src/assets/company/html.png"
 
 const Skills = () => {
   return (
@@ -15,6 +14,15 @@ const Skills = () => {
             </div>
           ))}
         </div>
+
+        <div>
+          {SKILL_IMAGE_DATA.map((obj,i)=> {
+            <div key={i}>
+              <img src={obj.image} alt="" />
+            </div>
+          })}
+        </div>
+        
       </div>
     </>
   )

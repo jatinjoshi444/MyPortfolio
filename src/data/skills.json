@@ -1,31 +1,31 @@
 [
     {
       "title": "HTML",
-      "imageSrc": "../../public/assets/company/html.png"
+      "imageSrc": "../src/assets/company/html.png"
     },
     {
       "title": "CSS",
-      "imageSrc": "../../public/assets/company/css.png"
+      "imageSrc": "../src/assets/company/css.png"
     },
     {
       "title": "Bootstrap",
-      "imageSrc": "../../public/assets/company/bootstrap.jpg"
+      "imageSrc": "../src/assets/company/bootstrap.jpg"
     },
     {
       "title": "JavaScript",
-      "imageSrc": "../../public/assets/company/js.png"
+      "imageSrc": "../src/assets/company/js.png"
     },
     {
       "title": "React",
-      "imageSrc": "../../public/assets/company/react.png"
+      "imageSrc": "../src/assets/company/react.png"
     },
     {
       "title": "Redux",
-      "imageSrc": "../../public/assets/company/redux.png"
+      "imageSrc": "../src/assets/company/redux.png"
     },
     {
       "title": "Tailwind CSS",
-      "imageSrc": "../src/../public/company/tailwind.png"
+      "imageSrc": "../src/assets/company/tailwind.png"
     },
     {
       "title": "Node Js",
@@ -33,19 +33,19 @@
     },
     {
       "title":"Express Js",
-      "imageSrc":"../../public/assets/company/expressjs.png"
+      "imageSrc":"../src/assets/company/expressjs.png"
     },
     {
       "title": "MongoDB",
-      "imageSrc": "../../public/assets/company//mongodb.jpg"
+      "imageSrc": "../src/assets/company//mongodb.jpg"
     },
     {
       "title": "Figma",
-      "imageSrc": "../../public/assets/company/figma.png"
+      "imageSrc": "../src/assets/company/figma.png"
     },
     {
       "title": "Git",
-      "imageSrc": "../../public/assets/company/git.png"
+      "imageSrc": "../src/assets/company/git.png"
     }    
     
   ]

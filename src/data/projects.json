@@ -2,15 +2,15 @@
     {
         "key":1,
         "title":"Amilo AI",
-        "imageSrc":"../src/assets/project-img/Screenshot (5).png",
+        "imageSrc":"",
         "description":" This is a project made with complete React js.",
-        "demo":"",
+        "demo":"https://amiloai-rho.vercel.app/",
         "source":"https://github.com/Chandan784/AmiloAi.git"
     },
     {
         "key":2,
         "title":"Weather App",
-        "imageSrc":"",
+        "imageSrc":"../src/assets/project-img/Screenshot (5).png",
         "description":" This is a project made with complete React js.",
         "demo":"https://weather-app-reactjs-snowy-three.vercel.app/",
         "source":"https://github.com/jatinjoshi444/Weather-App-Reactjs.git"
